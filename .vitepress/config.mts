@@ -7,7 +7,7 @@ const vitePressOptions = {
   themeConfig: {
     nav: [{ text: "Home", link: "/" }],
     socialLinks: [
-      { icon: "github", link: "https://github.com/vuejs/vitepress" },
+      { icon: "github", link: "https://github.com/dev-nokoshitai-org/prototype-daigakuka" },
     ],
   },
   base: "/prototype-daigakuka/",
